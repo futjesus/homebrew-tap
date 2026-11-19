@@ -1,6 +1,6 @@
 cask "futjesus-hub" do
-  version "0.1.0"
-  sha256 "dfe07f1761504c9fba2a2e98b8dbd0d32dfb2a17dd64b44d8018d5718697d120"
+  version "0.1.1"
+  sha256 "46132466df0a37a6378717f49aa343fbce3fc049f90fa79aea7bcb484504f9e8"
 
   url "https://github.com/futjesus/futjesus-hub/releases/download/v#{version}/Futjesus-Hub-#{version}.zip"
   name "Futjesus Hub"
